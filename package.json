@@ -1,5 +1,5 @@
 {
-  "name": "pi-tool-interceptor",
+  "name": "pi-ranoid",
   "version": "1.0.0",
   "description": "Pi coding agent extension that intercepts every LLM tool call and allows manual revision before execution",
   "type": "module",
